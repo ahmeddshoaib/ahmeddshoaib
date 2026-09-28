@@ -1,8 +1,8 @@
 # Muhammad Ahmed Shoaib
 
-**Business analytics · Supply chain · Commercial performance**
+**Business analytics | Supply chain operations | Commercial performance**
 
-I combine two years of international supply-chain operations with UK retail sales performance and an MSc in Business Analytics at Queen's University Belfast. My strongest work connects analysis to an operating decision: forecast demand, prioritise exceptions, optimise capacity, diagnose customers and communicate the evidence clearly.
+I am completing an MSc in Business Analytics at Queen's University Belfast after two years in supply-chain operations at Ibrahim Fibres and a strong UK retail sales record at Currys. My work covers forecasting, optimisation, customer analytics, SQL and BI, with a consistent focus on operational and commercial decisions.
 
 Based in Belfast and open to graduate and early-career roles across the UK. Willing to relocate and open to on-site work, shifts and travel.
 
@@ -16,13 +16,9 @@ Based in Belfast and open to graduate and early-career roles across the UK. Will
 
 ## Selected projects
 
-### [Retail demand forecasting & governance](https://github.com/ahmeddshoaib/retail-demand-forecast-governance)
+### [Explainable category-store demand forecasting](https://github.com/ahmeddshoaib/retail-demand-forecast-governance)
 
-Flagship dissertation project across 58,230 category-store-day records. A recursive LightGBM model achieved 0.6528 RMSSE and 8.46% WAPE, beating seasonal naive on 29 of 30 series. Includes time-ordered backtesting, four leakage tests, automated checks and a five-page Power BI governance product.
-
-### [Supply chain analytics platform](https://github.com/ahmeddshoaib/supply-chain-analytics-platform)
-
-Synthetic control tower for supplier risk, purchase-order exposure, ABC inventory priorities and demand-baseline selection. Connects Python analytics to the procurement, imports, logistics and lead-time problems I handled professionally.
+My dissertation analysed 58,230 category-store-day observations across 30 series. A global recursive LightGBM model achieved 0.6528 RMSSE and 8.46% WAPE, beating seasonal naive on 29 of 30 series. The repository includes ordered backtesting, leakage tests, model-selection controls and a five-page Power BI decision product.
 
 ### [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r)
 
@@ -34,7 +30,7 @@ Leakage-safe Python refactor of a 23,171-review customer analytics project. Comp
 
 ### [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r)
 
-Portable DuckDB SQL and R integration of customer, motor, health and travel records. Demonstrates customer-grain preservation, structural missingness, cross-sell cohorts and channel analysis.
+Portable DuckDB SQL and R integration of customer, motor, health and travel records, covering customer-grain preservation, structural missingness, cross-sell cohorts and channel analysis.
 
 ### [Retail customer & product strategy](https://github.com/ahmeddshoaib/retail-customer-product-strategy-r)
 
@@ -42,13 +38,18 @@ RFM, four-segment clustering, conjoint analysis and PCA translated into a retail
 
 Additional work: [employee attrition decision analytics](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics) and the [complete MSc project casebook](https://github.com/ahmeddshoaib/msc-business-analytics-casebook).
 
+## Independent operations project
+
+### [Supply chain analytics prototype](https://github.com/ahmeddshoaib/supply-chain-analytics-platform)
+
+A self-directed project built on synthetic data after my MSc. It is not an Ibrahim Fibres system or a university submission. I created it to translate the supplier, purchase-order, inventory and lead-time questions I handled professionally into a reproducible Python analysis.
+
 ## Toolkit
 
-**Analytics:** Python, R, SQL, Power BI, Tableau, Excel, KNIME  
-**Methods:** forecasting, regression, classification, optimisation, customer analytics, temporal validation  
+**Analytics:** Python, R, SQL, Power BI, Tableau, Excel, KNIME<br>
+**Methods:** forecasting, regression, classification, optimisation, customer analytics, temporal validation<br>
 **Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier and lead-time reporting
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ahmed-shoaibed) · [Queen's email](mailto:mshoaib01@qub.ac.uk)
-
