@@ -1,54 +1,66 @@
 # Muhammad Ahmed Shoaib
 
-**Business analytics | Supply chain operations | Commercial performance**
+I work at the point where operational detail, commercial judgement and analytics meet.
 
-I am completing an MSc in Business Analytics at Queen's University Belfast after two years in supply-chain operations at Ibrahim Fibres and a strong UK retail sales record at Currys. My work covers forecasting, optimisation, customer analytics, SQL and BI, with a consistent focus on operational and commercial decisions.
+Before beginning an MSc in Business Analytics at Queen's University Belfast, I spent two years in industrial supply-chain operations at Ibrahim Fibres. I progressed twice—from Management Trainee Officer to Senior Supply Chain Officer—while supporting imported machinery and raw materials, local procurement, Oracle ERP transactions, letters of credit, customs, shipment tracking, inland transport and daily supplier and delivery reporting.
 
-Based in Belfast and open to graduate and early-career roles across the UK. Willing to relocate and open to on-site work, shifts and travel.
+Alongside the MSc, I built a strong UK retail record at Currys Belfast. I have been selected for Top Squad for eight consecutive performance periods, maintained a Care & Repair strike rate above 70%, achieved an 80% customer feedback score and helped train new colleagues. That experience has strengthened the part of analytics I value most: understanding what a person or operation actually needs, then communicating a solution clearly enough for action.
 
-## Professional evidence
+At Queen's, I applied Python, R, SQL, Power BI, Tableau, Excel and KNIME across forecasting, optimisation, customer analytics, machine learning and data management. My dissertation evaluated 10,080 out-of-sample forecasts across 30 category-store series and translated the result into a five-page Power BI forecasting and model-governance product.
 
-- Earned two promotions in two years at Ibrahim Fibres, progressing from Management Trainee Officer to Senior Supply Chain Officer.
-- Managed Oracle procurement and import workflows from purchase requisition and letters of credit through customs, shipment tracking and goods receipt.
-- Coordinated approximately 60 international and local shipments in peak months and maintained daily lead-time and supplier-performance reporting.
-- Selected for Currys Top Squad for eight consecutive performance periods, with a Care & Repair strike rate above 70% and an 80% customer feedback score.
-- Current MSc average: Distinction; final classification pending.
+I am targeting graduate and early-career roles in analytics, supply chain, operations, retail and commercial decision support across the UK.
 
-## Selected projects
+## Flagship work
 
 ### [Explainable category-store demand forecasting](https://github.com/ahmeddshoaib/retail-demand-forecast-governance)
 
-My dissertation analysed 58,230 category-store-day observations across 30 series. A global recursive LightGBM model achieved 0.6528 RMSSE and 8.46% WAPE, beating seasonal naive on 29 of 30 series. The repository includes ordered backtesting, leakage tests, model-selection controls and a five-page Power BI decision product.
+My MSc dissertation: a complete 28-day forecasting and governance framework using 58,230 observations, four ordered backtests and three competing models. Global recursive LightGBM achieved `0.6528` RMSSE and `8.46%` WAPE, beating seasonal naive on 29 of 30 series. The repository includes leakage controls, exception logic, exact submitted Power BI pages and a documented semantic model.
 
 ### [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r)
 
-R/HiGHS mixed-integer model for a 26-week, 10-room schedule. Reproduces a £2.2656m objective with demand, clinician-capacity, room-mode and setup-cost constraints.
+An R/HiGHS mixed-integer model that configures 10 treatment rooms over 26 weeks while meeting diagnostic and therapeutic demand, respecting clinician capacity and accounting for room setup decisions. The reproduced solution has a £2.2656m objective and a reported optimality gap of `0.00883%`.
 
-### [Airline recommendation analytics](https://github.com/ahmeddshoaib/airline-review-recommendation-analytics)
+### [Supply chain operations analytics](https://github.com/ahmeddshoaib/supply-chain-analytics-platform)
 
-Leakage-safe Python refactor of a 23,171-review customer analytics project. Compares structured service ratings, TF-IDF text and unseen-airline evaluation with training-only imputation.
+A self-directed Python project built after the MSc to convert my professional supply-chain experience into a reproducible analytical workflow. Synthetic manufacturing data supports supplier-risk prioritisation, ABC inventory analysis, replenishment triage and chronological demand backtesting. It is not an Ibrahim Fibres system and contains no employer data.
 
-### [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r)
+## Customer, people and data projects
 
-Portable DuckDB SQL and R integration of customer, motor, health and travel records, covering customer-grain preservation, structural missingness, cross-sell cohorts and channel analysis.
+- [Airline recommendation analytics](https://github.com/ahmeddshoaib/airline-review-recommendation-analytics): structured service ratings, TF-IDF text, training-only imputation and unseen-airline evaluation for 23,171 archived reviews.
+- [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r): portable DuckDB SQL and R integration of customer, motor, health and travel records with grain, ownership and structural-missingness controls.
+- [Employee attrition decision analytics](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics): KNIME/Tableau project rebuilt as a tested Python decision pipeline that separates attrition rate from workforce exposure.
+- [Retail customer and product strategy](https://github.com/ahmeddshoaib/retail-customer-product-strategy-r): RFM, clustering, conjoint analysis and PCA connected to target-segment and product-positioning decisions.
+- [MSc project casebook](https://github.com/ahmeddshoaib/msc-business-analytics-casebook): the complete map of assessed projects, methods, decisions and public evidence from the degree.
 
-### [Retail customer & product strategy](https://github.com/ahmeddshoaib/retail-customer-product-strategy-r)
+## Experience behind the portfolio
 
-RFM, four-segment clustering, conjoint analysis and PCA translated into a retail targeting and product-positioning decision.
+### Industrial supply chain
 
-Additional work: [employee attrition decision analytics](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics) and the [complete MSc project casebook](https://github.com/ahmeddshoaib/msc-business-analytics-casebook).
+- Two promotions in two years at Ibrahim Fibres, culminating in appointment as Senior Supply Chain Officer.
+- Supported end-to-end imported and local procurement covering machinery, spare parts, PTA, MEG, sub-raw materials and coal.
+- Worked across purchase requisitions, Oracle ERP processing, letters of credit, customs duties and declarations, airport and seaport clearance, shipment tracking, receipts and inland transport.
+- Coordinated approximately 60 international and local shipments in peak months and maintained daily Excel reporting on shipment status, lead time, delivery and supplier performance.
+- Trained interns, supported plant visits and coordinated with internal teams, suppliers, freight partners and a Switzerland-based group entity.
 
-## Independent operations project
+### UK retail and commercial performance
 
-### [Supply chain analytics prototype](https://github.com/ahmeddshoaib/supply-chain-analytics-platform)
+- Eight consecutive Currys Top Squad selections.
+- Care & Repair strike rate above 70% and customer feedback score of 80%.
+- Consultative selling across customer needs, solution fit, services and aftercare rather than isolated product transactions.
+- Trusted to support new-hire training and additional hours in a high-volume store environment.
 
-A self-directed project built on synthetic data after my MSc. It is not an Ibrahim Fibres system or a university submission. I created it to translate the supplier, purchase-order, inventory and lead-time questions I handled professionally into a reproducible Python analysis.
+### Queen's University Belfast
+
+- Distinction-level current MSc average; final classification pending.
+- Individual Data-Driven Decision Making assessment: 90.
+- Data Management and Data Mining assessments: 77 each.
+- Led a six-person Data for Good hackathon team and contributed to live-client, EY and cross-disciplinary project work.
 
 ## Toolkit
 
-**Analytics:** Python, R, SQL, Power BI, Tableau, Excel, KNIME<br>
-**Methods:** forecasting, regression, classification, optimisation, customer analytics, temporal validation<br>
-**Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier and lead-time reporting
+**Analytics and BI:** Python, R, SQL, Power BI, DAX, Power Query, Tableau, Excel, KNIME<br>
+**Methods:** forecasting, temporal validation, regression, classification, optimisation, clustering, RFM, conjoint analysis, text analytics<br>
+**Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier performance, lead-time and delivery reporting
 
 ## Contact
 
