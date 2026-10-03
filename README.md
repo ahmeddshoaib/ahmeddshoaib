@@ -1,8 +1,8 @@
 # Muhammad Ahmed Shoaib
 
-Business analytics and operations professional combining two years of industrial supply-chain responsibility with a proven UK retail sales record. I earned two promotions at Ibrahim Fibres and have been selected for Currys Top Squad across eight consecutive performance periods.
+Business Analytics MSc candidate combining Python, SQL, Power BI and Excel with two years of progressive industrial supply-chain experience and a first-ranked store and regional UK retail sales record. I earned two promotions at Ibrahim Fibres, finished the Currys fiscal year ranked first in both store and region, and led the winning team in a 12-team analytics hackathon.
 
-My work connects Python, R, SQL, Power BI, Excel and Oracle ERP with practical decisions in forecasting, optimisation, customer analytics, procurement, imports, logistics and commercial performance. I am completing an MSc in Business Analytics at Queen's University Belfast with an expected Distinction.
+My work connects forecasting, optimisation, customer analytics and governed BI with practical decisions in procurement, imports, logistics, service delivery and commercial performance. I have submitted my MSc dissertation at Queen's University Belfast; my taught-module average is at Distinction level and the final classification is pending.
 
 I am open to graduate and early-career opportunities in analytics, supply chain, operations, retail, commercial analysis and management across the UK and internationally.
 
@@ -36,20 +36,21 @@ A self-directed Python project that turns supplier, purchasing, inventory and le
 - Supported imported and local procurement covering machinery, spare parts, PTA, MEG, sub-raw materials and coal.
 - Managed Oracle procure-to-receipt activity, letters of credit, customs duties and declarations, airport and seaport clearance, shipment tracking, goods receipts and inland transport.
 - Coordinated approximately 60 international and local shipments in peak months across suppliers, freight partners, customs agents, finance, transport and production stakeholders.
-- Maintained daily Excel controls for shipment status, lead time, delivery and supplier performance, enabling early escalation of delays.
+- Maintained and improved daily Excel controls for shipment status, lead time, delivery and supplier performance, enabling earlier escalation and contributing to stronger delivery performance, shorter clearance cycles and fewer delays.
 - Supported a Switzerland-based group entity, trained interns and used plant visits to connect purchasing decisions with production requirements.
 
 ### UK retail and commercial performance
 
-- Selected for Currys Top Squad across eight consecutive performance periods.
-- Maintained a Care & Repair strike rate above 70% and an 80% customer feedback score.
+- Finished the fiscal year ranked first in both store and region and was selected for Currys' performance-based Top Squad across eight consecutive periods.
+- Delivered close to £21,000 against an £8,000 weekly sales target in one recorded high-performing week.
+- Maintained a Care & Repair plan attachment rate above 70% and an 80% customer feedback score.
 - Earned recognition across sales, services, protection, broadband, credit and campaign performance.
 - Train new colleagues in customer discovery, solution selling, store procedures, service and compliance standards.
 
 ## Client projects and leadership
 
-- **Winner, QBS Data for Good Hackathon 2026:** coordinated a six-member team across current-state and predictive analysis workstreams and combined the evidence into one recommendation on GP practice pressure in Northern Ireland.
-- **Craigavon TV:** initiated and led a live-client analytics project integrating 28,115 job records with 35,994 appointment records, completing 59 of 60 data-quality checks and shaping a dashboard for operational planning.
+- **Winner, QBS Data for Good Hackathon 2026 (12 teams):** led a six-member team across current-state and predictive analysis workstreams and combined the evidence into one recommendation on GP practice pressure in Northern Ireland.
+- **Craigavon TV:** initiated and currently lead a live-client analytics project integrating 28,115 job records with 35,994 appointment records, completing 59 of 60 data-quality checks and developing a Power BI dashboard for operational planning.
 - **Splash community impact project:** served as project manager for a volunteer construction team, allocating work, monitoring progress and supporting safe delivery for a community organisation.
 - **EY Challenge:** worked in a four-person team to structure a business dataset, identify decision-relevant evidence, develop recommendations and present the analysis and conclusions to EY professionals.
 
@@ -58,6 +59,8 @@ A self-directed Python project that turns supplier, purchasing, inventory and le
 **Analytics and BI:** Python, R, SQL, Power BI, DAX, Power Query, Tableau, Excel, KNIME<br>
 **Methods:** forecasting, temporal validation, regression, classification, optimisation, clustering, RFM, conjoint analysis, text analytics<br>
 **Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier performance, lead-time and delivery reporting
+
+**Professional development:** Microsoft PL-300 Power BI Data Analyst and DP-900 Azure Data Fundamentals exam preparation, both in progress
 
 ## Contact
 
