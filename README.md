@@ -1,6 +1,6 @@
 # Muhammad Ahmed Shoaib
 
-MSc Business Analytics graduate (classification pending) targeting data and business analyst roles, combining Python, SQL, Power BI and Excel with two years of industrial supply-chain experience. I progressed from Management Trainee Officer to Senior Supply Chain Officer at Ibrahim Fibres, finished the Currys fiscal year ranked first in both store and region, and led the winning team in a 12-team analytics hackathon.
+MSc Business Analytics graduate targeting data, business intelligence and supply-chain analytics roles, combining Python, SQL, Power BI, R and Excel with two years of global supply-chain experience. I progressed from Management Trainee Officer to Senior Supply Chain Officer at Ibrahim Fibres, finished the Currys fiscal year ranked first in both store and region, and led the winning team in a 12-team analytics hackathon.
 
 My work connects forecasting, optimisation, customer analytics and governed BI with practical decisions in procurement, imports, logistics, service delivery and commercial performance. I have submitted my MSc dissertation at Queen's University Belfast; my taught-module average is at Distinction level and the final classification is pending.
 
@@ -50,7 +50,7 @@ A self-directed Python project that turns supplier, purchasing, inventory and le
 - **Winner, QBS Data for Good Hackathon (June 2026, 12 teams):** led a six-member team to analyse 312 Northern Ireland GP practices and build a pressure intelligence system combining demand, clinical burden, deprivation and outcomes to prioritise support and match high-pressure practices with nearby potential support partners.
 - **Craigavon TV:** initiated and currently lead a live-client analytics project linking 28,115 jobs with 35,994 appointments. Passed 59 of 60 recorded data-quality checks and designed the data model for a Power BI dashboard now being developed to improve workload visibility, appointment planning and backlog prioritisation.
 - **Splash community impact project:** served as project manager for a volunteer construction team, allocating work, monitoring progress and supporting safe delivery for a community organisation.
-- **EY Analytics Challenge (2026):** worked in a four-person team to analyse the supplied dataset, develop commercially focused recommendations and present the team's conclusions to EY professionals.
+- **EY Consulting Case Challenge:** worked in a four-person team to design and present an ethically governed in-app AI recommendation concept for a mental-health start-up, addressing accessibility, legal safeguards, user trust and the responsible use of mood data.
 
 ## Toolkit
 
