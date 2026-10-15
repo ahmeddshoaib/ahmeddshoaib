@@ -1,16 +1,16 @@
 # Muhammad Ahmed Shoaib
 
-MSc Business Analytics graduate targeting data, business intelligence and supply-chain analytics roles, combining Python, SQL, Power BI, R and Excel with two years of global supply-chain experience. I progressed from Management Trainee Officer to Senior Supply Chain Officer at Ibrahim Fibres, finished the Currys fiscal year ranked first in both store and region, and led the winning team in a 12-team analytics hackathon.
+I am an MSc Business Analytics graduate with two years of industrial supply-chain experience. At Ibrahim Fibres, I progressed from Management Trainee Officer to Senior Supply Chain Officer while working across Oracle purchasing, imports, customs and logistics. At Currys, I finished the fiscal year ranked first for sales in both my store and region.
 
-My work connects forecasting, optimisation, customer analytics and governed BI with practical decisions in procurement, imports, logistics, service delivery and commercial performance. I have submitted my MSc dissertation at Queen's University Belfast; my taught-module average is at Distinction level and the final classification is pending.
+I use Python, SQL, Power BI, R and Excel for forecasting, data integration, statistical analysis and dashboards. This GitHub contains my dissertation, selected MSc coursework and a self-directed supply-chain project. Each repository states whether its results come from the submitted analysis or from demonstration data.
 
-I am open to graduate and early-career opportunities in analytics, supply chain, operations, retail, commercial analysis and management across the UK and internationally.
+I am open to graduate and early-career roles in data analysis, business intelligence, supply-chain analytics and operations analytics across the UK and internationally.
 
 ## Flagship work
 
 ### [Explainable category-store demand forecasting](https://github.com/ahmeddshoaib/retail-demand-forecast-governance)
 
-My MSc dissertation developed a complete 28-day retail forecasting and governance framework using 58,230 observations, four ordered backtests and three competing models. The evaluation produced 10,080 out-of-sample forecasts across all three models. Global recursive LightGBM achieved `0.6528` RMSSE, 26.4% below seasonal naive (`0.8865`) and 10.6% below Holt-Winters (`0.7300`); it ranked best on 29 of 30 and 19 of 30 series respectively. The repository includes temporal validation, leakage controls, gain-based feature importance, exception logic, the exact submitted Power BI pages and a documented semantic model.
+My MSc dissertation used the M5 Forecasting - Accuracy dataset, a public Walmart item-sales dataset. I aggregated it into 30 category-store series and compared LightGBM, Holt-Winters and seasonal naive across four ordered 28-day backtests, producing 3,360 forecast points per model and 10,080 in total. LightGBM achieved `0.6528` RMSSE, 26.4% below seasonal naive (`0.8865`) and 10.6% below Holt-Winters (`0.7300`); it ranked best on 29 of 30 and 19 of 30 series respectively. The repository includes the forecasting code, validation checks and exact Power BI pages from the submitted technical report.
 
 ### [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r)
 
@@ -58,7 +58,7 @@ A self-directed Python project that turns supplier, purchasing, inventory and le
 **Methods:** forecasting, temporal validation, regression, classification, optimisation, clustering, RFM, conjoint analysis, text analytics<br>
 **Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier performance, lead-time and delivery reporting
 
-**Certifications:** Microsoft PL-300 Power BI Data Analyst (in progress) | Microsoft DP-900 Azure Data Fundamentals (in progress)
+**Certification:** Microsoft PL-300 Power BI Data Analyst (in progress)
 
 ## Contact
 
