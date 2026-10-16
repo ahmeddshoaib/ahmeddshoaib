@@ -62,4 +62,4 @@ A self-directed Python project that turns supplier, purchasing, inventory and le
 
 ## Contact
 
-[Portfolio](https://ahmeddshoaib.github.io/ahmeddshoaib/) | [LinkedIn](https://www.linkedin.com/in/ahmed-shoaibed) | [Email](mailto:mshoaib01@qub.ac.uk)
+[Portfolio](https://ahmeddshoaib.github.io/ahmeddshoaib/) | [LinkedIn](https://www.linkedin.com/in/ahmed-shoaibed) | [Email](mailto:ahmedshoaibedu@gmail.com)
