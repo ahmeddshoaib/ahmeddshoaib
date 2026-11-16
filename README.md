@@ -1,64 +1,60 @@
 # Muhammad Ahmed Shoaib
 
-I am an MSc Business Analytics graduate with two years of industrial supply-chain experience. At Ibrahim Fibres, I progressed from Management Trainee Officer to Senior Supply Chain Officer while working across Oracle purchasing, imports, customs and logistics. At Currys, I finished the fiscal year ranked first for sales in both my store and region.
+MSc Business Analytics graduate with Distinction and two years of manufacturing supply-chain experience across procurement, imports and logistics. I use Python, SQL, Power BI, R and Excel to turn operational data into reporting, forecasting and decision-support outputs.
 
-I use Python, SQL, Power BI, R and Excel for forecasting, data integration, statistical analysis and dashboards. This GitHub contains my dissertation, selected MSc coursework and a self-directed supply-chain project. Each repository states whether its results come from the submitted analysis or from demonstration data.
+I am seeking full-time Data Analyst, Business Intelligence Analyst and Supply Chain Analyst roles across the UK and am open to relocation.
 
-I am open to graduate and early-career roles in data analysis, business intelligence, supply-chain analytics and operations analytics across the UK and internationally.
+## Evidence at a glance
 
-## Flagship work
+- Ranked first in store at Currys for both an individual reporting period and FYTD performance, placed within the regional top 20 and achieved Top Squad recognition for 10 consecutive periods.
+- Promoted twice at Ibrahim Fibres, progressing from Management Trainee Officer to Senior Supply Chain Officer between August 2023 and September 2025.
+- Managed Oracle purchasing, import, letter-of-credit, landed-cost and shipment controls, resolving documentation and delivery exceptions that could delay material availability.
+- Collaborated on a daily Excel import and raw-material dashboard used in General Manager and CEO reviews to monitor stock, in-transit orders, consumption, coverage days and shortage risk.
+- Achieved `0.6528` RMSSE in my MSc demand-forecasting dissertation, 26.4% below seasonal naive and 10.6% below Holt-Winters across four ordered 28-day backtests.
+- Initiated and led the Craigavon TV live-client analytics engagement, where 59 of 60 documented data-quality checks passed across linked jobs and appointment data.
 
-### [Explainable category-store demand forecasting](https://github.com/ahmeddshoaib/retail-demand-forecast-governance)
+## Featured analytical work
 
-My MSc dissertation used the M5 Forecasting - Accuracy dataset, a public Walmart item-sales dataset. I aggregated it into 30 category-store series and compared LightGBM, Holt-Winters and seasonal naive across four ordered 28-day backtests, producing 3,360 forecast points per model and 10,080 in total. LightGBM achieved `0.6528` RMSSE, 26.4% below seasonal naive (`0.8865`) and 10.6% below Holt-Winters (`0.7300`); it ranked best on 29 of 30 and 19 of 30 series respectively. The repository includes the forecasting code, validation checks and exact Power BI pages from the submitted technical report.
+| Project | Decision supported | Evidence |
+|---|---|---|
+| [Retail demand forecasting and governance](https://github.com/ahmeddshoaib/retail-demand-forecast-governance) | Select and monitor a 28-day demand forecast | LightGBM, statistical baselines, time-ordered backtesting, leakage controls and a five-page Power BI model |
+| [Craigavon TV live-client analytics](https://ahmeddshoaib.github.io/ahmeddshoaib/#leadership) | Establish a reliable operational base for workload, appointment and backlog analysis | Initiated and led the engagement; linked 28,115 jobs with 35,994 appointments; 59 of 60 documented data-quality checks passed |
+| [Supply-chain operations analytics](https://github.com/ahmeddshoaib/supply-chain-analytics-platform) | Prioritise supplier, inventory and replenishment actions | Reproducible Python pipeline on synthetic manufacturing data; automated tests pass |
+| [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r) | Create dependable product-ownership and channel views | SQL integration of 4,085 synthetic customer records with key, grain and reconciliation checks |
+| [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r) | Configure room capacity across a 26-week plan | R/HiGHS mixed-integer optimisation with feasibility and saved-result validation |
+| [Airline recommendation analytics](https://github.com/ahmeddshoaib/airline-review-recommendation-analytics) | Identify service attributes associated with recommendation | Structured ratings, TF-IDF text, training-only imputation and unseen-airline evaluation |
+| [Employee attrition decision analytics](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics) | Prioritise workforce segments for investigation | Comparable classification models and a rate-versus-exposure decision matrix |
 
-### [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r)
+Every repository distinguishes submitted academic results from synthetic demonstration outputs and states its limitations.
 
-An R and HiGHS mixed-integer model that configures 10 treatment rooms over 26 weeks while meeting diagnostic and therapeutic demand, respecting clinician capacity and accounting for room setup decisions. The reproduced solution has a £2.2656m objective and a reported optimality gap of `0.00883%`.
+## Professional experience
 
-### [Supply chain operations analytics](https://github.com/ahmeddshoaib/supply-chain-analytics-platform)
+### Ibrahim Fibres Limited | Management Trainee Officer → Supply Chain Officer → Senior Supply Chain Officer
 
-A self-directed Python project that turns supplier, purchasing, inventory and lead-time questions from my professional experience into a complete analytical workflow. It covers supplier-risk prioritisation, ABC inventory analysis, replenishment triage and chronological forecast evaluation using demonstration manufacturing data.
+- Earned two promotions within approximately two years, advancing from Management Trainee Officer to Senior Supply Chain Officer and taking wider responsibility across procurement, imports, inventory, logistics and cross-functional exception management.
+- Controlled Oracle purchasing and import workflows from purchase requisition and PO records through pro forma invoice validation, letters of credit, freight, insurance, customs, landed cost and receipt status, resolving document exceptions that could delay material availability.
+- Tracked HS-coded materials and shipments by PO/LC, quantity, packages, weight, vessel, departure, ETA and port-to-plant milestone; used supplier and lead-time reports to surface delivery exceptions and coordinate follow-up across operational teams.
+- Collaborated with colleagues to consolidate daily Oracle and departmental reports into an Excel dashboard supporting forecast reviews, minimum-stock monitoring, reorder decisions and shortage-risk escalation.
 
-## Customer, people and data projects
+### Currys | Sales Colleague
 
-- [Airline recommendation analytics](https://github.com/ahmeddshoaib/airline-review-recommendation-analytics): structured service ratings, TF-IDF review text, classification and unseen-airline evaluation across 23,171 archived reviews.
-- [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r): SQL and R coursework integrating 4,085 customer records across four linked tables, identifying 975 customers holding three policies and creating product ownership and channel preference views for cross sell analysis.
-- [Employee attrition decision analytics](https://github.com/ahmeddshoaib/employee-attrition-decision-analytics): KNIME, Tableau and Python analysis that connects model comparison with a responsible retention-priority framework.
-- [Retail customer and product strategy](https://github.com/ahmeddshoaib/retail-customer-product-strategy-r): RFM, clustering, conjoint analysis and PCA connected to target-segment and product-positioning decisions.
-- [MSc Business Analytics project casebook](https://github.com/ahmeddshoaib/msc-business-analytics-casebook): a complete map of the degree modules, analytical decisions, methods and portfolio evidence.
+- Ranked first in store for an individual reporting period and FYTD performance, placed within the regional top 20 and achieved Top Squad recognition for 10 consecutive periods.
+- Maintained Care & Repair attachment above 70% and an 80% customer-feedback score while translating customer requirements, existing technology and budget into suitable product, service and protection recommendations.
+- Support colleagues with needs-based conversations, store processes and consistent customer communication.
 
-## Experience behind the portfolio
+## Leadership and client work
 
-### Industrial supply chain
+- Initiated and led the Craigavon TV live-client analytics engagement; 59 of 60 documented data-quality checks passed across 28,115 jobs and 35,994 appointments.
+- Led the six-person winning team at the QBS Data for Good Hackathon, placing first of 12 teams after analysing 312 Northern Ireland GP practices.
+- Project managed a volunteer construction team for the Splash Community Impact Project, allocating work, monitoring progress and supporting safe delivery for a community organisation.
+- Contributed within a four-person team to a responsible-AI recommendation concept for a mental-health start-up in the EY Consulting Case Challenge, covering accessibility, legal safeguards, user trust and mood-data governance.
 
-- Progressed from Management Trainee Officer to Supply Chain Officer and Senior Supply Chain Officer within two years, managing imported and local purchasing for machinery, spare parts, polyester raw materials and coal.
-- Controlled Oracle procure-to-receipt from purchase requisition and letters of credit through customs clearance and goods receipt; coordinated about 60 international, local shipment and LC cases in peak months and resolved documentation exceptions before they disrupted supply.
-- Built and maintained a daily Excel dashboard tracking shipment status, lead time, delivery and supplier performance, enabling earlier escalation of delays and overdue actions.
-- Supported a Switzerland-based group entity, trained interns and used plant visits to connect purchasing decisions with production requirements.
+## Education and toolkit
 
-### UK retail and commercial performance
+**MSc Business Analytics, Queen's University Belfast — Distinction**
+Python, pandas, scikit-learn, LightGBM, R, SQL, Power BI, DAX, Power Query, Excel, data modelling, ETL, validation, forecasting and Oracle ERP.
 
-- Finished the fiscal year ranked first in both store and region and was selected for Currys' performance-based Top Squad across eight consecutive periods.
-- In one high-performing week, delivered close to £21,000 in sales, approximately 2.6 times the £8,000 target.
-- Maintained a Care & Repair plan attachment rate above 70% and an 80% customer feedback score.
-- Earned recognition across sales, services, protection, broadband, credit and campaign performance.
-- Train new colleagues in customer discovery, solution selling, store procedures, service and compliance standards.
-
-## Client projects and leadership
-
-- **Winner, QBS Data for Good Hackathon (June 2026, 12 teams):** led a six-member team to analyse 312 Northern Ireland GP practices and build a pressure intelligence system combining demand, clinical burden, deprivation and outcomes to prioritise support and match high-pressure practices with nearby potential support partners.
-- **Craigavon TV:** initiated and currently lead a live-client analytics project linking 28,115 jobs with 35,994 appointments. Passed 59 of 60 recorded data-quality checks and designed the data model for a Power BI dashboard now being developed to improve workload visibility, appointment planning and backlog prioritisation.
-- **Splash community impact project:** served as project manager for a volunteer construction team, allocating work, monitoring progress and supporting safe delivery for a community organisation.
-- **EY Consulting Case Challenge:** worked in a four-person team to design and present an ethically governed in-app AI recommendation concept for a mental-health start-up, addressing accessibility, legal safeguards, user trust and the responsible use of mood data.
-
-## Toolkit
-
-**Analytics and BI:** Python, R, SQL, Power BI, DAX, Power Query, Tableau, Excel, KNIME<br>
-**Methods:** forecasting, temporal validation, regression, classification, optimisation, clustering, RFM, conjoint analysis, text analytics<br>
-**Operations:** Oracle ERP, procurement, imports, customs, logistics, supplier performance, lead-time and delivery reporting
-
-**Certification:** Microsoft PL-300 Power BI Data Analyst (in progress)
+Microsoft PL-300 Power BI Data Analyst certification is in progress.
 
 ## Contact
 
