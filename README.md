@@ -6,10 +6,10 @@ I am seeking full-time Data Analyst, Business Intelligence Analyst and Supply Ch
 
 ## Evidence at a glance
 
-- Ranked first in store at Currys for both an individual reporting period and FYTD performance, placed within the regional top 20 and achieved Top Squad recognition for 10 consecutive periods.
+- Ranked first in store across 10 reporting periods and FYTD, placed within the regional top 20 and maintained Top Squad status throughout the run; FYTD sales reached £286.7k against a £206.0k target (139.2%).
 - Promoted twice at Ibrahim Fibres, progressing from Management Trainee Officer to Senior Supply Chain Officer between August 2023 and September 2025.
-- Managed Oracle purchasing, import, letter-of-credit, landed-cost and shipment controls, resolving documentation and delivery exceptions that could delay material availability.
-- Collaborated on a daily Excel import and raw-material dashboard used in General Manager and CEO reviews to monitor stock, in-transit orders, consumption, coverage days and shortage risk.
+- Maintained an auditable Oracle trail across 11 procurement and import checkpoints and tracked 12 shipment reference, quantity and milestone fields, resolving exceptions that could delay material availability.
+- Collaborated on a daily Excel import and raw-material dashboard combining inputs across six functions for General Manager and CEO reviews of stock, in-transit orders, consumption, coverage days and shortage risk.
 - Achieved `0.6528` RMSSE in my MSc demand-forecasting dissertation, 26.4% below seasonal naive and 10.6% below Holt-Winters across four ordered 28-day backtests.
 - Initiated and led the Craigavon TV live-client analytics engagement, where 59 of 60 documented data-quality checks passed across linked jobs and appointment data.
 
@@ -32,14 +32,14 @@ Every repository distinguishes submitted academic results from synthetic demonst
 ### Ibrahim Fibres Limited | Management Trainee Officer → Supply Chain Officer → Senior Supply Chain Officer
 
 - Earned two promotions within approximately two years, advancing from Management Trainee Officer to Senior Supply Chain Officer and taking wider responsibility across procurement, imports, inventory, logistics and cross-functional exception management.
-- Controlled Oracle purchasing and import workflows from purchase requisition and PO records through pro forma invoice validation, letters of credit, freight, insurance, customs, landed cost and receipt status, resolving document exceptions that could delay material availability.
-- Tracked HS-coded materials and shipments by PO/LC, quantity, packages, weight, vessel, departure, ETA and port-to-plant milestone; used supplier and lead-time reports to surface delivery exceptions and coordinate follow-up across operational teams.
-- Collaborated with colleagues to consolidate daily Oracle and departmental reports into an Excel dashboard supporting forecast reviews, minimum-stock monitoring, reorder decisions and shortage-risk escalation.
+- Maintained an auditable Oracle trail across 11 procurement and import checkpoints - from PR/RFQ/Award/PO through LC, freight, insurance, customs, landed cost and GRN - resolving exceptions that could delay raw-material or spare-parts availability.
+- Tracked 12 shipment fields from PO/LC and HS code through vessel, ETA, port arrival and plant dispatch; coordinated eight stakeholder groups to keep delivery exceptions visible and order status current.
+- Jointly consolidated daily Oracle and Excel inputs across six functions into a stock-control dashboard used in General Manager and CEO reviews of in-transit orders, consumption, coverage days and reorder risk.
 
 ### Currys | Sales Colleague
 
-- Ranked first in store for an individual reporting period and FYTD performance, placed within the regional top 20 and achieved Top Squad recognition for 10 consecutive periods.
-- Maintained Care & Repair attachment above 70% and an 80% customer-feedback score while translating customer requirements, existing technology and budget into suitable product, service and protection recommendations.
+- Ranked first in store across 10 reporting periods and FYTD, placed within the regional top 20 and maintained Top Squad status throughout the run; FYTD sales reached £286.7k against a £206.0k target (139.2%).
+- Applied needs analysis to recommend products, services and protection, sustaining 70%+ Care & Repair attachment and 80% customer feedback; the FYTD report recorded £445.88 sales per hour, £48.9k credit and £13.3k services.
 - Support colleagues with needs-based conversations, store processes and consistent customer communication.
 
 ## Leadership and client work
