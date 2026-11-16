@@ -1,6 +1,6 @@
 # Muhammad Ahmed Shoaib
 
-MSc Business Analytics graduate with Distinction and two years of manufacturing supply-chain experience across procurement, imports and logistics. I use Python, SQL, Power BI, R and Excel to turn operational data into reporting, forecasting and decision-support outputs.
+Graduated with Distinction from the MSc Business Analytics programme at Queen's University Belfast. I bring manufacturing supply-chain, customer-facing and stakeholder coordination experience into data analysis and business problem solving, using Excel, Power BI, SQL, Python and R to analyse performance, identify operational risks and opportunities, build data visualisations and translate complex findings into practical recommendations.
 
 I am seeking full-time Data Analyst, Business Intelligence Analyst and Supply Chain Analyst roles across the UK and am open to relocation.
 
