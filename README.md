@@ -7,18 +7,18 @@ I am seeking full-time Data Analyst, Business Intelligence Analyst and Supply Ch
 ## Evidence at a glance
 
 - Ranked first in store across 10 reporting periods and FYTD, placed within the regional top 20 and maintained Top Squad status throughout the run; FYTD sales reached £286.7k against a £206.0k target (139.2%).
-- Promoted twice at Ibrahim Fibres, progressing from Management Trainee Officer to Senior Supply Chain Officer between August 2023 and September 2025.
+- Progressed from Management Trainee Officer (August 2023-August 2024) to Supply Chain Officer in August 2024, then to Senior Supply Chain Officer before leaving in September 2025.
 - Maintained an auditable Oracle trail across 11 procurement and import checkpoints and tracked 12 shipment reference, quantity and milestone fields, resolving exceptions that could delay material availability.
 - Collaborated on a daily Excel import and raw-material dashboard combining inputs across six functions for General Manager and CEO reviews of stock, in-transit orders, consumption, coverage days and shortage risk.
 - Achieved `0.6528` RMSSE in my MSc demand-forecasting dissertation, 26.4% below seasonal naive and 10.6% below Holt-Winters across four ordered 28-day backtests.
-- Initiated and led the Craigavon TV live-client analytics engagement, where 59 of 60 documented data-quality checks passed across linked jobs and appointment data.
+- Initiated, led and delivered the Craigavon TV live-client analytics engagement, where 59 of 60 documented data-quality checks passed across linked jobs and appointment data.
 
 ## Featured analytical work
 
 | Project | Decision supported | Evidence |
 |---|---|---|
 | [Retail demand forecasting and governance](https://github.com/ahmeddshoaib/retail-demand-forecast-governance) | Select and monitor a 28-day demand forecast | LightGBM, statistical baselines, time-ordered backtesting, leakage controls and a five-page Power BI model |
-| [Craigavon TV live-client analytics](https://ahmeddshoaib.github.io/ahmeddshoaib/#leadership) | Establish a reliable operational base for workload, appointment and backlog analysis | Initiated and led the engagement; linked 28,115 jobs with 35,994 appointments; 59 of 60 documented data-quality checks passed |
+| [Craigavon TV live-client analytics](https://ahmeddshoaib.github.io/ahmeddshoaib/#leadership) | Establish a reliable operational base for workload, appointment and backlog analysis | Initiated, led and delivered the engagement; linked 28,115 jobs with 35,994 appointments; 59 of 60 documented data-quality checks passed |
 | [Supply-chain operations analytics](https://github.com/ahmeddshoaib/supply-chain-analytics-platform) | Prioritise supplier, inventory and replenishment actions | Reproducible Python pipeline on synthetic manufacturing data; automated tests pass |
 | [Insurance Customer 360](https://github.com/ahmeddshoaib/insurance-customer-360-sql-r) | Create dependable product-ownership and channel views | SQL integration of 4,085 synthetic customer records with key, grain and reconciliation checks |
 | [Healthcare capacity optimisation](https://github.com/ahmeddshoaib/healthcare-capacity-optimisation-r) | Configure room capacity across a 26-week plan | R/HiGHS mixed-integer optimisation with feasibility and saved-result validation |
@@ -31,7 +31,7 @@ Every repository distinguishes submitted academic results from synthetic demonst
 
 ### Ibrahim Fibres Limited | Management Trainee Officer → Supply Chain Officer → Senior Supply Chain Officer
 
-- Earned two promotions within approximately two years, advancing from Management Trainee Officer to Senior Supply Chain Officer and taking wider responsibility across procurement, imports, inventory, logistics and cross-functional exception management.
+- Served as Management Trainee Officer from August 2023 to August 2024, was promoted to Supply Chain Officer in August 2024 and later to Senior Supply Chain Officer before leaving in September 2025, taking wider responsibility across procurement, imports, inventory, logistics and cross-functional exception management.
 - Maintained an auditable Oracle trail across 11 procurement and import checkpoints - from PR/RFQ/Award/PO through LC, freight, insurance, customs, landed cost and GRN - resolving exceptions that could delay raw-material or spare-parts availability.
 - Tracked 12 shipment fields from PO/LC and HS code through vessel, ETA, port arrival and plant dispatch; coordinated eight stakeholder groups to keep delivery exceptions visible and order status current.
 - Jointly consolidated daily Oracle and Excel inputs across six functions into a stock-control dashboard used in General Manager and CEO reviews of in-transit orders, consumption, coverage days and reorder risk.
@@ -44,7 +44,7 @@ Every repository distinguishes submitted academic results from synthetic demonst
 
 ## Leadership and client work
 
-- Initiated and led the Craigavon TV live-client analytics engagement; 59 of 60 documented data-quality checks passed across 28,115 jobs and 35,994 appointments.
+- Initiated, led and delivered the Craigavon TV live-client analytics engagement; 59 of 60 documented data-quality checks passed across 28,115 jobs and 35,994 appointments.
 - Led the six-person winning team at the QBS Data for Good Hackathon, placing first of 12 teams after analysing 312 Northern Ireland GP practices.
 - Project managed a volunteer construction team for the Splash Community Impact Project, allocating work, monitoring progress and supporting safe delivery for a community organisation.
 - Contributed within a four-person team to a responsible-AI recommendation concept for a mental-health start-up in the EY Consulting Case Challenge, covering accessibility, legal safeguards, user trust and mood-data governance.
